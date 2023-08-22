@@ -6,3 +6,4 @@ Lets add some food items in this list. Items include fruits, vegetables and non-
 4) Tomato
 5) Turmeric
 6) Turnip
+7) Potato
