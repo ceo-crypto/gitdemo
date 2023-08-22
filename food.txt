@@ -1,4 +1,4 @@
-Lets add some food items in this list
+Lets add some food items in this list. Items include fruits, vegetables and non-veg
 
 1) Apple 
 2) Mango
@@ -10,3 +10,10 @@ Lets add some food items in this list
 8) Fish
 9) Egg
 10) Shrimp
+11) Onion 
+12) Olive
+13) Okra
+14) Tomato
+15) Turmeric
+16) Turnip
+17) Potato
