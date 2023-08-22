@@ -3,3 +3,6 @@ Lets add some food items in this list. Items include fruits, vegetables and non-
 1) Onion 
 2) Olive
 3) Okra
+4) Tomato
+5) Turmeric
+6) Turnip
