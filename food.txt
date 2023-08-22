@@ -1,1 +1,20 @@
 Lets add some food items in this list. Items include fruits, vegetables and non-veg. Add some varieties of fish as well
+
+1) Apple 
+2) Mango
+3) Banana
+4) Avocado
+5) Kiwi Fruit
+6) Grapes
+7) Mutton
+8) Chicken
+9) Fish
+10) Egg
+11) Shrimp
+12) Onion 
+13) Olive
+14) Okra
+15) Tomato
+16) Turmeric
+17) Turnip
+18) Potato
