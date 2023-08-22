@@ -1,1 +1,5 @@
 Lets add some food items in this list. Items include fruits, vegetables and non-veg
+
+1) Onion 
+2) Olive
+3) Okra
